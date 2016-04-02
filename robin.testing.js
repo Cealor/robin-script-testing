@@ -27,7 +27,7 @@ var manualThaiList = ["̍", "̎", "̄", "̅", "̿", "̑", "̆", "̐", "͒", "͗"
 "];
 
 var spamBlacklist = new XMLHttpRequest();
-client.open('GET', 'https://github.com/Cealor/robin-script-testing/blacklist.txt');
+client.open('GET', 'https://raw.githubusercontent.com/Cealor/robin-script-testing/master/blacklist.txt');
 
 var nonEnglishSpamRegex = "[^\x00-\x7F]+";
 
