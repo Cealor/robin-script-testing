@@ -3,13 +3,13 @@ Ultimate Mergefile
 
 # Installation
 
-Step 1: Install a userscript extension for your browser of choice such as Greasemonkey or Tampermonkey:
+**Step 1:** Install a userscript extension for your browser of choice such as Greasemonkey or Tampermonkey:
 
 Firefox: [Greasemonkey](https://addons.mozilla.org/de/firefox/addon/greasemonkey/)
 Chrome: [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 
 
-Step 2: Click this link to install the script:
+**Step 2:** Click this link to install the script:
 
 https://github.com/Cealor/robin-script/raw/master/robinscript.user.js
 
