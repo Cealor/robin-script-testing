@@ -44,5 +44,5 @@ Screenshot of information above "Grow" button
 
 # Contributors
 
-    - [original fork](https://github.com/Cealor/robin-grow) by [vartan](https://github.com/vartan)
-    - [anti-spam script](https://github.com/gardner/robin) by [gardner](https://github.com/gardner)
+   - [original fork](https://github.com/Cealor/robin-grow) by [vartan](https://github.com/vartan)
+   - [anti-spam script](https://github.com/gardner/robin) by [gardner](https://github.com/gardner)
