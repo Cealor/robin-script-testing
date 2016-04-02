@@ -21,22 +21,21 @@ https://github.com/Cealor/robin-script
 
 
 # Changelog
-
-    0.2: Using grow command instead of clicking stuff. Sends command when page is loaded, and also every minute just in case.
-
-    0.3: Also informs the page about the script
-    0.4: 10:26AM, Is now smart enough to detect if you've already voted for grow and won't spam the vote.
-    0.5: Automatic reload on no activity
-    0.7: Now shows useful information at the top of the page as well.
-    0.8: fixed time bug, will rejoin on a failed chatroom
-    0.9: Will now only send the message one time, won't resend the message on refresh!
-    1.0: Better UI
-    1.1: Gets actual counts from reddit backend
-    1.2: Filters out bots which start with '['
-    1.3: Filters out messages that users keep repeating
-    
     1.4: Merge /vartan/robin-grow with /gardner/robin
          Changes pending
+         
+    1.3: Filters out messages that users keep repeating
+    1.2: Filters out bots which start with '['
+    1.1: Gets actual counts from reddit backend
+    0.9: Will now only send the message one time, won't resend the message on refresh!
+    0.8: fixed time bug, will rejoin on a failed chatroom
+    0.7: Now shows useful information at the top of the page as well.
+    0.5: Automatic reload on no activity
+    0.4: 10:26AM, Is now smart enough to detect if you've already voted for grow and won't spam the vote.
+    0.3: Also informs the page about the script
+    
+    0.2: Using grow command instead of clicking stuff. Sends command when page is loaded, and also every minute just in case.
+
 
 Screenshot of information above "Grow" button
 
