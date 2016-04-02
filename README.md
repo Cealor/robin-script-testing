@@ -11,7 +11,7 @@ Chrome: [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dh
 
 **Step 2:** Click this link to install the script:
 
-https://github.com/Cealor/robin-script/raw/master/robinscript.user.js
+https://github.com/Cealor/robin-script/raw/master/robin.user.js
 
 If you get a bunch of code instead of it installing, you can copy and paste the code as a new script in greasemonkey/tampermonkey.
 
