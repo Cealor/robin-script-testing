@@ -35,7 +35,7 @@ https://github.com/Cealor/robin-script
     1.2: Filters out bots which start with '['
     1.3: Filters out messages that users keep repeating
     
-    1.4: Merge [/vartan/robin-grow](https://github.com/vartan/robin-grow) with [/gardner/robin](https://github.com/gardner/robin)
+    1.4: Merge /vartan/robin-grow with /gardner/robin
          Changes pending
 
 Screenshot of information above "Grow" button
@@ -44,5 +44,5 @@ Screenshot of information above "Grow" button
 
 # Contributors
 
-- [original fork](https://github.com/Cealor/robin-grow) by [vartan](https://github.com/vartan)
-- 
+    - [original fork](https://github.com/Cealor/robin-grow) by [vartan](https://github.com/vartan)
+    - [anti-spam script](https://github.com/gardner/robin) by [gardner](https://github.com/gardner)
